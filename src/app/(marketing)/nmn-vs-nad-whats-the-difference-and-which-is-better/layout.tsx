@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     ],
   },
   alternates: {
-    canonical: "https://aneralife.com/nmn-vs-nad-whats-the-difference-and-which-is-better",
+    canonical: "https://www.aneralife.com/nmn-vs-nad-whats-the-difference-and-which-is-better",
   },
 };
 
