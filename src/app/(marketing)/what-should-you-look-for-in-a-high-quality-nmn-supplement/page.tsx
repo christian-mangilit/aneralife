@@ -70,7 +70,7 @@ const ARTICLE_HTML = [
   "</ul>",
   "<p>Be cautious of products that rely on proprietary blends without specifying ingredient amounts. Transparency is an important sign that a manufacturer values informed consumer decisions.</p>",
   "<h2><strong>5. Appropriate Dosage</strong></h2>",
-  "<p>Choosing the right dosage is another important part of selecting the <a href=\"/buy-best-nmn-supplement-canada\" class=\"art-internal-link\"><strong>best NMN supplement</strong></a>.</p>",
+  "<p>Choosing the right dosage is another important part of selecting the <a href=\"/best-nmn-supplement-canada\" class=\"art-internal-link\"><strong>best NMN supplement</strong></a>.</p>",
   "<p>While research on NMN continues to evolve, commercially available supplements commonly provide daily serving sizes ranging from <a href=\"/products/nmn-trans-resveratrol-24000\" class=\"art-internal-link\"><strong>250 mg to 500 mg</strong></a>, although formulations may vary depending on the product and intended use.</p>",
   "<p>For individuals who are new to NMN, starting with the manufacturer's recommended serving and following the label directions is generally the most practical approach. Consumers should avoid assuming that higher doses automatically mean higher quality.</p>",
   "<p>Instead of focusing solely on dosage, consider the complete picture:</p>",

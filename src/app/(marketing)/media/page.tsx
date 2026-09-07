@@ -108,13 +108,13 @@ const ARTICLES = [
     externalHref: "/nmn-supplement-for-dogs-and-cats",
   },
   {
-    id: 11, slug: "buy-best-nmn-supplement-canada",
+    id: 11, slug: "best-nmn-supplement-canada",
     title: "Best NMN Supplement in Canada (2026)",
     date: "June 20, 2026", tag: "Canada", filter: "canada", icon: "🇨🇦", bannerClass: "", readTime: "14 min read",
     lead: "Looking for the best NMN supplement in Canada? Learn how to compare purity, testing, dosage, and value before you buy.",
     takeaways: ["Compare NMN supplements by purity, testing, dosage, and value", "Look for 99%+ purity, GMP standards, and third-party testing", "Anera Life NMN is positioned around transparent quality standards for Canadian consumers"],
     content: "",
-    externalHref: "/buy-best-nmn-supplement-canada",
+    externalHref: "/best-nmn-supplement-canada",
   },
   {
     id: 12, slug: "how-to-choose-the-best-nmn-supplement-the-ultimate-buyers-guide",
