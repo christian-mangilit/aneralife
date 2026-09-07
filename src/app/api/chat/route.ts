@@ -84,7 +84,7 @@ When an article is relevant, summarize its main points and include its Anera pag
    NMN supports NAD+ production, a pathway associated with cellular energy and healthy aging, but direct research in dogs and cats remains limited. Product purity, third-party testing, transparent manufacturing, and guidance from a veterinarian are important. Never recommend a personalized pet dose.
 
 9. **Best NMN Supplement in Canada (2026)** — June 20, 2026
-   Page: /buy-best-nmn-supplement-canada
+   Page: /best-nmn-supplement-canada
    The guide recommends comparing NMN products by verified purity, third-party testing, dosage, GMP manufacturing, certificate-of-analysis transparency, and overall value. It presents Anera Life around transparent Canadian quality standards.
 
 10. **How to Choose the Best NMN Supplement: The Ultimate Buyer's Guide (2026)** — June 7, 2026

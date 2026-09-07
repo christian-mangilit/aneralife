@@ -12,6 +12,15 @@ const nextConfig = {
       },
     ],
   },
+  async redirects() {
+    return [
+      {
+        source: "/buy-best-nmn-supplement-canada",
+        destination: "/best-nmn-supplement-canada",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;
