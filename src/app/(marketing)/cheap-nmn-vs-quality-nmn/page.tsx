@@ -197,7 +197,7 @@ const ARTICLE_HTML = [
   "<h2><strong>What Should You Look for When Buying NMN in Canada?</strong></h2>",
   "<p>Canadian shoppers have another useful quality checkpoint: regulatory status.</p>",
   "<p>Health Canada says NHPs licensed for sale in Canada carry an eight-digit NPN or DIN-HM. The NPN indicates that Health Canada has authorized the product for sale under the applicable framework.</p>",
-  "<p>When evaluating an <a href=\"/buy-best-nmn-supplement-canada\" class=\"art-internal-link\"><strong>NMN supplement in Canada</strong></a>, consider checking:</p>",
+  "<p>When evaluating an <a href=\"/best-nmn-supplement-canada\" class=\"art-internal-link\"><strong>NMN supplement in Canada</strong></a>, consider checking:</p>",
   "<h3><strong>1. NPN or applicable regulatory information</strong></h3>",
   "<p>Look for the relevant product licence information and verify it where appropriate.</p>",
   "<h3><strong>2. Manufacturing standards</strong></h3>",
